@@ -8,6 +8,5 @@ User have to signup/login to access the app. Restaurant Finder provides an easy 
 
 
 
-![main](https://user-images.githubusercontent.com/25689142/27344284-9c8070fe-5607-11e7-8267-323c34ecf1c6.png)  ![login](https://user-images.githubusercontent.com/25689142/27344297-a2a4f108-5607-11e7-8237-4106b3665d97.png)  ![location](https://user-images.githubusercontent.com/25689142/27344302-aa2c5966-5607-11e7-8f06-9471adc955e9.png)  ![direction_2](https://user-images.githubusercontent.com/25689142/27344319-b45e1078-5607-11e7-822d-be8b8ccb653b.png)
 
 
