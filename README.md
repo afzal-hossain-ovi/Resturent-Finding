@@ -8,5 +8,9 @@ User have to signup/login to access the app. Restaurant Finder provides an easy 
 
 
 
+<p align="center">
+  <img src="/screenshots/Main.png?raw=true" width="300" height="500"/>      <img src="/screenshots/Login.png?raw=true" width="300" height="500"/>    <img src="/screenshots/Location.png?raw=true" width="300" height="500"/>    <img src="/screenshots/Direction.png?raw=true" width="300" height="500"/> 
+</p>
+
 
 
